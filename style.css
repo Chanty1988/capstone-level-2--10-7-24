@@ -1,0 +1,23 @@
+/* All Pages Start */
+body {
+  background-color: maroon;
+  font-family: cursive;
+  color: white ;
+  text-align: center;
+  margin: 1px;
+}
+
+nav {
+  text-align: center;
+  font-size: 2vw; font-family: cursive
+}
+nav:hover{background-color:green}
+table{text-align: center}
+
+
+footer {
+  font-family: cursive;
+  color: black;
+  text-align: center;
+  margin: 1px
+}
