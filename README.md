@@ -2,7 +2,7 @@ git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin 
+git remote add origin https://github.com/Chanty1988/capstone-level-2--10-7-24.git
 curl -sS https://webi.sh/gh | sh
 gh auth login
 
