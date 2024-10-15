@@ -1,4 +1,6 @@
  <script>
+   debugger;
+    function runProblem1()  {
         /************************************
         Is userNumber less than 10?
 
@@ -32,9 +34,9 @@
 
         //STEPS: Display the vaule of myResult.
         //PSEUDO: Display myResult
-        document.write("Is your number less than 10? " + myResult + "<br>");
+        document.write("Is your number less than 10? " + myResult + "<br>"); }
 
-        function runProblem1() {
+        function runProblem2() {
           /******************************
           Create a loop that repets 3 times and runs the "ask" command.
 
@@ -88,7 +90,7 @@
           } while (!isDone);
         }
 
-        function runProblem2() {
+        function runProblem3() {
           /******************************
           Create a loop that repets 3 times.
 
@@ -136,6 +138,7 @@
         }
       </script>
       <script>
-        runProblem1("<br>");
-        runProblem2();
+        runProblem1();
+        runProblem2("<br>");
+        runProblem3()
       </script>
