@@ -116,7 +116,7 @@
           //STEP: Store 0 in myCount
           //PSEUDO: myCount = 0
           myCount = 0;
-          debugger;
+          
           //STEP: Start a loop
           //PSEUDO:  Start loop
           do {
