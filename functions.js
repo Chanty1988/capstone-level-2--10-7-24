@@ -1,4 +1,8 @@
- <script>
+<script src="functions.js">
+</script>
+
+
+<script>
    debugger;
     function runProblem1()  {
         /************************************
